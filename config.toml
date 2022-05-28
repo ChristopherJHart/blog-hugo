@@ -5,7 +5,7 @@ theme = "m10c"
 
 [params]
   author = "Christopher Hart"
-  title = "Christopher Hart's Blog"
+  title = "Blog for Christopher Hart"
   description = "A blog about all things technical."
   avatar = "/global/avatar.png"
   images = ["/global/avatar.png"]
