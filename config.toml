@@ -8,6 +8,7 @@ theme = "m10c"
   title = "Christopher Hart's Blog"
   description = "A blog about all things technical."
   avatar = "/global/avatar.png"
+  images = ["/global/avatar.png"]
 
   [[params.social]]
     icon = "github"
