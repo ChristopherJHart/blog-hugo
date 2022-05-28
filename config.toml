@@ -1,0 +1,20 @@
+baseURL = "https://christopherjhart.github.io/blog-hugo/"
+languageCode = "en-us"
+title = "Christopher Hart's Blog"
+theme = "m10c"
+
+[params]
+  author = "Christopher Hart"
+  title = "Christopher Hart's Blog"
+  description = "A blog about all things technical."
+  avatar = "/global/avatar.png"
+
+  [[params.social]]
+    icon = "github"
+    name = "GitHub"
+    url = "https://github.com/ChristopherJHart"
+
+  [[params.social]]
+    icon = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/_ChrisJHart"
